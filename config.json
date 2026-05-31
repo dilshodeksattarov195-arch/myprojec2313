@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cartuave",
+        "uuid": 12548025,
+        "checksum": "g96ap7"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "production"
+    }
+}
